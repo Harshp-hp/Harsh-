@@ -5,15 +5,11 @@ Introduction
 
 👋🏽 Hi, My Name is Harsh
 
-🎓 I have completed ceretification in Full Stake Data Analytics ![code](https://github.com/Harshp-hp/Harsh-/assets/72340908/0f2750f4-0bbb-4a07-bebb-edacfcb2fd31)
+🎓 I have completed ceretification in Full Stake Data Analytics  as well as Sql Advanced.
 
-    as well as Sql Advanced.
+🌇 I'm fascinated by big data and committed to learning everything I can about it.
 
-🌇 I'm fascinated by big data and committed to learning everything
-I can about it.
-
-📚 I have a good background in data analysis, with past experience working as an 
-Insight & Data Analyst across various projects.
+📚 I have a good background in data analysis, with past experience working as an  Insight & Data Analyst across various projects.
        
 **languages and tools:** 
 ![python](https://github.com/Harshp-hp/Harsh-/assets/72340908/c9739a70-e44c-46c8-9fca-b3a7593c2a70)
