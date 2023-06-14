@@ -7,7 +7,7 @@ Introduction
 
 🎓 I have completed ceretification in Full Stake Data Analytics  as well as Sql Advanced.
 
-🌇 I'm fascinated by big data and committed to learning everything I can about it.
+🌇 I'm fascinated by data and committed to learning everything I can about it.
 
 📚 I have a good background in data analysis, with past experience working as an  Insight & Data Analyst across various projects.
        
