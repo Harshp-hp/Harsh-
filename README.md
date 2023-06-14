@@ -12,10 +12,6 @@ Introduction
 📚 I have a good background in data analysis, with past experience working as an  Insight & Data Analyst across various projects.
        
 **languages and tools:** 
-![python](https://github.com/Harshp-hp/Harsh-/assets/72340908/c9739a70-e44c-46c8-9fca-b3a7593c2a70)
-![snowfalke](https://github.com/Harshp-hp/Harsh-/assets/72340908/f01e5b63-7cb8-40e5-931a-b12570215f66)
-![database](https://github.com/Harshp-hp/Harsh-/assets/72340908/73c6439c-f332-41e2-9bda-847882682e30)
-![mysql](https://github.com/Harshp-hp/Harsh-/assets/72340908/5ff4091f-01c3-4fcf-b963-59f5365b7c93)
 
 🟢 How to reach me @email: hpimpalkar9@gmail.com
 
